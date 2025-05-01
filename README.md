@@ -51,6 +51,4 @@ Input should be provided via standard input (e.g., by typing manually or piping 
 
 📫 Contact
 
-Feel free to connect with me or discuss problems:
-
-    Beecrowd: My Profile
+Feel free to connect with me or discuss problems: nicolasvondolinger@gmail.com
